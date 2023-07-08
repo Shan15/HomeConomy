@@ -1,0 +1,5 @@
+.idea
+global.json
+*/node_modules
+HomeConomy.API/obj
+HomeConomy.API/bin
